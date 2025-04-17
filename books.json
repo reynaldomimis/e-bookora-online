@@ -1,0 +1,49 @@
+{
+    "courses": [
+      {
+        "name": "BSIT",
+        "id": 100
+      },
+      {
+        "name": "BSA",
+        "id": 102
+      }
+    ],
+    "books": [
+      {
+        "course_id": 100,
+        "author": "Andy Williams",
+        "title": "Wordpress SEO On-Page SEO for your Wordpress Site",
+        "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1744854219/ebookora/BSIT/utezz9lng8vmqptxoup4.png",
+        "link_pdf": "https://drive.google.com/uc?export=download&id=1eoYAfWxzD5s-GtDnwBwahknYyqzPHNL8"
+      },
+      {
+        "course_id": 100,
+        "author": "Nate Cooper",
+        "title": "Build Your Own Website A Comic Guide to HTML, CSS and Wordpress",
+        "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1744854531/ebookora/BSIT/101_rzbgpp.png",
+        "link_pdf": "https://drive.google.com/uc?export=download&id=14ZpNdZLdAKkPf_M5Zu_FutU1rtpm4_GF"
+      },
+      {
+        "course_id": 100,
+        "author": "Lisa Sabin-Wilson",
+        "title": "Wordpress All-In-One for Dummies",
+        "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1744854932/ebookora/BSIT/102_ch27gf.png",
+        "link_pdf": "https://drive.google.com/uc?export=download&id=18VXnn6MPXtc7WYUtXBurhJeRy-8k_8iZ"
+      },
+      {
+        "course_id": 102,
+        "author": "John A., CPA Tracy",
+        "title": "Accounting For Dummies, 4th edition",
+        "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1744855339/ebookora/BSIT/102A_v8hcmd.png",
+        "link_pdf": "https://drive.google.com/uc?export=download&id=1E-Lyzavf4VqJq2q63r29qj3G9DY3rqki"
+      },
+      {
+        "course_id": 102,
+        "author": "Jane Kelly,John A. Tracy",
+        "title": "Accounting Workbook For Dummies",
+        "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1744855563/ebookora/BSIT/102B_zn1lsi.png",
+        "link_pdf": "https://drive.google.com/uc?export=download&id=1E-Lyzavf4VqJq2q63r29qj3G9DY3rqki"
+      }
+    ]
+  }
