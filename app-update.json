@@ -1,0 +1,9 @@
+{
+  "visibility": "visible",
+  "title": "Update Available",
+  "description": "A new version is ready with improvements and new features for a better reading experience. Please update now.",
+  "version": "1.1",
+  "app_url": "",
+  "btn_label_update": "Update",
+  "btn_label_cancel": "Cancel"
+}
