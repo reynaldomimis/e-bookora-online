@@ -1,0 +1,68 @@
+{
+  "courses": [
+    {
+      "name": "BSIT",
+      "id": 100
+    },
+    {
+      "name": "BSA",
+      "id": 101
+    },
+    {
+      "name": "BSCS",
+      "id": 102
+    },
+    {
+      "name": "BSCPE",
+      "id": 103
+    },
+    {
+      "name": "BSCN",
+      "id": 104
+    }
+  ],
+ "books": [
+    {
+      "course_id": 100,
+      "author": "Al Sweigart",
+      "title": "Automate the Boring Stuff with Python",
+      "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1746024436/ebookora/BSIT/101A_dtv8p0.png",
+      "link_pdf": "ZCIrYwF4MzR6QAYhCRxPYA0PAE9sBiF5XzocDWdrFBg2"
+    },
+    {
+      "course_id": 101,
+      "author": "Jane Kelly,John A. Tracy",
+      "title": "Accounting Workbook For Dummies",
+      "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1744855563/ebookora/BSIT/102B_zn1lsi.png",
+      "link_pdf": "ZBFrYUEvNTBLDAMlDFwKJGJ1XwpsJSwef2wQHx5KJD8v"
+    },
+    {
+      "course_id": 102,
+      "author": "Paul W. Bible and Lucas Moser",
+      "title": "An Open Guide to Data Structures and Algorithms",
+      "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1746022312/ebookora/BSCS/102C_qxfenk.png",
+      "link_pdf": "ZB4JS28tLABUTTkeHhpbYGB/AEgDIRxcXhEZLF9bPj93"
+    },
+    {
+      "course_id": 102,
+      "author": "M. H. Alsuwaiyel",
+      "title": "Algorithms Design Techniques and Analysis",
+      "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1746022482/ebookora/BSCS/102D_j3aoyz.png",
+      "link_pdf": "ZDI2XHA2OzdYShgkLWROFzYsfBUXPnVDbBMxKGhBDSYH"
+    },
+    {
+      "course_id": 103,
+      "author": "Peter Krapp",
+      "title": "Computing Legacies",
+      "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1746023519/ebookora/BSCPE/103Dpng_cltic4.png",
+      "link_pdf": "ZGwlSFwsEBRFSzExAkh/eBx0XksnPihHVgUwMABqAgJw"
+    },
+    {
+      "course_id": 104,
+      "author": "Jean-Yves Le Boudec and Patrick Thiran",
+      "title": "An Introduction to Network Calculus",
+      "thumbnail": "https://res.cloudinary.com/dkbbweo5x/image/upload/v1746022979/ebookora/BSCPE/103B_bssnl5.jpg",
+      "link_pdf": "ZBcZSXI0ZSBCfD4YNG9uChIzWHQjPDFlZw8BHhoJABYv"
+    }
+  ]
+}
